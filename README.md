@@ -1,7 +1,8 @@
 # Text mining customer reviews
 
 ## Description
-In this notebook will be analyzed reviews of products of clothing industry.  Trough *Topic Modeling* reviews will be caetgorized in different groups, while trough *tf-idf* are found words that better describes reviews with higher ratings han the one with lower ratings.
+In this notebook will be analyzed reviews of products of clothing industry. 
+Trough *Topic Modeling* reviews will be caetgorized in different groups, while trough *tf-idf* are found words that better describes reviews with higher ratings han the one with lower ratings.
 Finally, trough *Ridge Classifier*, is made a prediction of Rating using *tf-idf* values.
 
 
